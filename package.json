@@ -1,0 +1,23 @@
+{
+  "name": "react-web-broker",
+  "version": "1.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rm -rf ./dist && tsc",
+    "prepare": "yarn build"
+  },
+  "author": "Victor Nicolas Lizarraga Ochoa",
+  "license": "ISC",
+  "repository": "",
+  "dependencies": {
+    "@types/react": "^16.9.35",
+    "@types/react-dom": "^16.9.8",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "redux": "^4.0.5",
+    "short-uuid": "^3.1.1",
+    "typescript": "^3.8.3",
+    "web-broker": "1.0.6"
+  }
+}

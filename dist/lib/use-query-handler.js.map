@@ -1,0 +1,1 @@
+{"version":3,"file":"use-query-handler.js","sourceRoot":"","sources":["../../src/lib/use-query-handler.ts"],"names":[],"mappings":";;AAAA,+BAA+B;AAC/B,mDAA0C;AAE1C,SAAS,eAAe,CAAC,SAAiB,EAAE,OAA4B;IACtE,MAAM,QAAQ,GAAG,uBAAW,EAAE,CAAC;IAC/B,KAAK,CAAC,SAAS,CAAC,GAAG,EAAE;QACnB,QAAQ,EAAE,eAAe,CAAC,SAAS,EAAE,OAAO,CAAC,CAAC;IAChD,CAAC,CAAC,CAAC;AACL,CAAC;AAED,kBAAe,eAAe,CAAC"}

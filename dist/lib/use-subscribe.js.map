@@ -1,0 +1,1 @@
+{"version":3,"file":"use-subscribe.js","sourceRoot":"","sources":["../../src/lib/use-subscribe.ts"],"names":[],"mappings":";;AAAA,+BAA+B;AAC/B,mDAA0C;AAE1C,SAAS,YAAY,CAAC,KAAa,EAAE,OAA4B;IAC/D,MAAM,QAAQ,GAAG,uBAAW,EAAE,CAAC;IAC/B,KAAK,CAAC,SAAS,CAAC,GAAG,EAAE;QACnB,QAAQ,EAAE,SAAS,CAAC,KAAK,EAAE,OAAO,CAAC,CAAC;IACtC,CAAC,CAAC,CAAC;AACL,CAAC;AAED,kBAAe,YAAY,CAAC"}
